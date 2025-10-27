@@ -23,7 +23,7 @@ Este repositório documenta a experiência prática adquirida durante o laborat�
 
 
 ## 📁 Estrutura do Repositório
-Desenho de arquitetura: 
+Desenho de arquitetura: desenho-arquitetura.drawio
 
 ## 📚 Aprendizados
 
